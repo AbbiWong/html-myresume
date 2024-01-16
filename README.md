@@ -1,2 +1,2 @@
 # html-myresume
-My vResume
+My Resume
